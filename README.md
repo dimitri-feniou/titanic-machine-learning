@@ -18,7 +18,7 @@ Ce que vous aurez à faire :
     Analyse et intépretation des résultats
     Amélioration des résultats le cas échéant
 
-## Lien vers le google collab
+## Lien vers le google collab
 
 https://colab.research.google.com/drive/1BLda5VFXb4npBynOQmnyWUy5EyiXSto1#scrollTo=3pGFbqTaUzQU
 
