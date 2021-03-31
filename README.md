@@ -25,3 +25,6 @@ https://colab.research.google.com/drive/1BLda5VFXb4npBynOQmnyWUy5EyiXSto1#scroll
 ## Lien vers la présentation powerpoint du projet
 https://docs.google.com/presentation/d/1s0_rSw2MTn6uZf0IopCZQ5RSgM9E1F4OrONJ2rQVBqM/edit?usp=sharing
 
+## Challenge Kaggle
+
+https://www.kaggle.com/c/titanic
